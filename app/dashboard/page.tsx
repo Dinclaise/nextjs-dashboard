@@ -1,6 +1,6 @@
 import {lusitana} from "@/app/ui/fonts";
 import {fetchCardData, fetchLatestInvoices, fetchRevenue} from "@/app/lib/data";
-import RevenueChart from "@/app/ui/dashboard/revenue-chart";
+iumport RevenueChart from "@/app/ui/dashboard/revenue-chart";
 import LatestInvoices from "@/app/ui/dashboard/latest-invoices";
 import {Card} from "@/app/ui/dashboard/cards";
 
